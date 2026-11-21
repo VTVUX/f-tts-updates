@@ -1,8 +1,9 @@
 {
   "version": "1.1.0",
-  "min_full_version": "1.0.0",
+  "min_full_version": "V1.0.0",
   "notes": "Cap nhat tinh nang va sua loi phien ban v1.1.0.",
   "patch_url": "https://github.com/VTVUX/f-tts-updates/releases/download/v1.1.0/patch_v1.1.0.zip",
-  "sha256": "<giữ nguyên chuỗi sha256 dài 64 ký tự trong file version.json của bạn>",
-  "full_url": ""
+  "sha256": "3090b4ea097bb0d0b27ee6076f421c7c190904c5d6ca60345d86ad85b2e7adad",
+  "full_url": "",
+  "released_at": "2026-11-21 13:55:32"
 }
