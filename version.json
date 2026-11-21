@@ -1,9 +1,9 @@
 {
-  "version": "1.2.1",
+  "version": "1.2.2",
   "min_full_version": "1.0.0",
-  "notes": "Sửa lỗi âm thanh bị chậm và trầm khi kịch bản mở đầu bằng thẻ biểu cảm; thẻ âm thanh thật giữ đúng tiếng gốc khi ghép với giọng đọc; thu micrô cho thẻ biểu cảm ở 48kHz.",
-  "patch_url": "https://github.com/VTVUX/f-tts-updates/releases/download/v1.2.1/patch_v1.2.1.zip",
-  "sha256": "9120fcf5eadd58dda8ab91a53f10b030d272a9085a7b2a4c509918611c2b377c",
+  "notes": "Cộng dồn ngày gia hạn: mã mới còn hạn được nối tiếp vào thời hạn đang còn lại thay vì ghi đè; giữ số ngày khi cài lại phần mềm.",
+  "patch_url": "https://github.com/VTVUX/f-tts-updates/releases/download/v1.2.2/patch_v1.2.2.zip",
+  "sha256": "089918189f16adbccaa35e9fa3ce67dd7b3b17251642c8d8d7a5c131304d69fb",
   "full_url": "",
-  "released_at": "2026-11-21 23:03:00"
+  "released_at": "2026-11-21 23:24:58"
 }
