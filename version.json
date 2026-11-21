@@ -1,9 +1,9 @@
 {
   "version": "1.2.0",
   "min_full_version": "1.0.0",
-  "notes": "Kiểm tra chính tả tiếng Việt, giao diện Ngày/Đêm, tiếng Anh, nhập .docx/.srt và lồng tiếng khớp video",
+  "notes": "Cap nhat tinh nang va sua loi phien ban v1.2.0.",
   "patch_url": "https://github.com/VTVUX/f-tts-updates/releases/download/v1.2.0/patch_v1.2.0.zip",
-  "sha256": "1a90ff225a8d5a493d89db9c0f611847b84144764ffcdd06fe8711c931b70ada",
+  "sha256": "3eab5a5bb7e77e86b479d6b17b75a59249507084fa33fe918ae99204caded46a",
   "full_url": "",
-  "released_at": "2026-11-21 21:40:49"
+  "released_at": "2026-11-21 21:49:42"
 }
